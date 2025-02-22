@@ -1,0 +1,13 @@
+Flask
+mysql-connector-python
+PyPDF2
+openai
+boto3
+llama-index
+llama-index-llms-azure-openai
+llama-index-embeddings-azure-openai
+python-dotenv
+requests
+llama-index-vector-stores-chroma
+chroma
+chromadb
